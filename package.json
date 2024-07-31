@@ -1,6 +1,6 @@
 {
-  "name": "lilydrop-ui-2",
-  "version": "0.0.2",
+  "name": "lilydrop-ui",
+  "version": "0.0.1",
   "description": "A simple component library",
   "main": "dist/cjs/index.js",
   "scripts": {
